@@ -5,7 +5,7 @@ PAC-Algorithms for Reliability Estimation of Complex Systems
 :Conference: Engineering Mechanics Institute Conference 2018
 :Location: Boston, MA. USA.
 :Date: May 31, 2018
-:Authors: Roger Paredes
+:Authors: Roger Paredes & Leonardo Duenas-Osorio (advisor).
 :Contact: roger(dot)paredes(at)rice.edu
 
 

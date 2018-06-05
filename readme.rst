@@ -34,7 +34,9 @@ and: ::
 References
 ----------
 
-The main results are based on the following two papers:
+The main results are based on the next two papers:
 
 - Duenas-Osorio, L., Meel, K. S., Paredes, R., & Vardi, M. Y. (2017). Counting-based Reliability Estimation for Power-Transmission Grids. In Proceedings of AAAI Conference on Artificial Intelligence. San Francisco.
-- Paredes, R., Duenas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2018). Network Reliability Estimation in Theory and Practice. Submitted to: Reliability Engineering & System Safety. (Preprint will be made available soon)
+- Paredes, R., Duenas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2018). Network Reliability Estimation in Theory and Practice. Submitted to: Reliability Engineering & System Safety. (Preprint _`arXiv:1806.00917`).
+
+.. _`arXiv:1806.00917`: https://arxiv.org/abs/1806.00917

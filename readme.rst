@@ -21,6 +21,7 @@ Demos
 To download the demos simply clone the repository: ::
 
   $ git clone https://github.com/paredesroger/emi2018
+  $ cd emi2018
 
 Then, run examples issuing: ::
 
